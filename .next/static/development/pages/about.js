@@ -10743,7 +10743,7 @@ var About = function About() {
 
 /***/ }),
 
-/***/ 1:
+/***/ 2:
 /*!***************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fabout&absolutePagePath=%2Fhome%2Fdarryn%2FDesktop%2Fdarryn%2Fcode%2FGitHub%2Fcoindesk-bitcoin-price-index%2Fpages%2Fabout.js ***!
   \***************************************************************************************************************************************************************************/
@@ -10766,5 +10766,5 @@ module.exports = dll_4865f90d4ee19414ef24;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]));;
+},[[2,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=about.js.map
