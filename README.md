@@ -2,6 +2,19 @@
 
 Displays Bitcoin prices from CoinDesk using their <a href='https://www.coindesk.com/api'>public endpoint</a>.
 
-Built using <a href='https://github.com/zeit/next.js'>next.js</a> and <a href='https://github.com/twbs/bootstrap'>bootstrap</a>.
+## Installation
 
-Start the development server by running: npm run dev
+```sh
+npm install
+```
+
+## Development usage
+
+```sh
+npm run dev
+```
+
+## Built With
+
+* [NextJs](next.js)
+* [Bootstrap](https://github.com/twbs/bootstrap)
